@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.com/maps/dir/1.351011,+103.871869/Serangoon+Central,+%2301-101+Yuan+Zhong+Siu+Feng+Shui+%E7%BC%98%E4%B8%AD%E7%A7%80%E9%A3%8E%E6%B0%B4%E5%91%BD%E7%90%86+(Serangoon+Central),+Singapore/@1.3523602,103.8700779,17z/data=!3m1!4b1!4m12!4m11!1m3!2m2!1d103.871869!2d1.351011!1m5!1m1!1s0x31da17a6c7f5d069:0xfcdb96e3855d52dc!2m2!1d103.8727549!2d1.3535923!3e2?hl=en&shorturl=1&hl=en</url-->
+    <time>2021-07-04T22:12:40Z</time>
+  </metadata>
+  <wpt lat="1.351011" lon="103.871869">
+    <name>1.351011</name>
+  </wpt>
+  <wpt lat="1.3535923" lon="103.8727549">
+    <name>Serangoon Central</name>
+    <desc>Yuan Zhong Siu Feng Shui 缘中秀风水命理 (Serangoon Central), 262 Serangoon Central, #01-101, Singapore 550262</desc>
+  </wpt>
+<trk>
+  <name>1.351011 to Serangoon Central</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="1.3511207" lon="103.8718344">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="1.35117" lon="103.872">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="1.35127" lon="103.8723">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="1.35127" lon="103.87231">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="1.35128" lon="103.87232">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="1.35129" lon="103.87232">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="1.35131" lon="103.87233">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="1.3513112" lon="103.8723266">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="1.35131" lon="103.87235">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="1.35132" lon="103.87242">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="1.35133" lon="103.87244">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="1.35134" lon="103.87246">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="1.35137" lon="103.87249">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="1.35141" lon="103.8725">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="1.35143" lon="103.87261">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="1.35145" lon="103.87268">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="1.35149" lon="103.87267">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="1.3514881" lon="103.8726697">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="1.3515" lon="103.87266">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="1.35163" lon="103.87263">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="1.3518" lon="103.87259">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="1.35184" lon="103.87259">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="1.35202" lon="103.87258">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="1.35212" lon="103.87258">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="1.35267" lon="103.87264">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="1.35274" lon="103.87265">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="1.35306" lon="103.87269">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="1.35332" lon="103.87273">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="1.3533221" lon="103.8727299">
+    <name>TP029</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

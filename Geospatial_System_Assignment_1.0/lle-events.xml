@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.lifeloggers.org/your-life-log-events">
+    <lle:Event>
+      <lle:eventid>1</lle:eventid>
+      <lle:event-name>Facebook Status</lle:event-name>
+      <lle:event-desc>ksdgkjksd</lle:event-desc>
+      <lle:lat>1.349697</lle:lat>
+      <lle:long>103.871162</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 10:03AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>2</lle:eventid>
+      <lle:event-name>Facebook Status</lle:event-name>
+      <lle:event-desc>Oops.</lle:event-desc>
+      <lle:lat>1.349413</lle:lat>
+      <lle:long>103.871247</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 10:04AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>3</lle:eventid>
+      <lle:event-name>Photo</lle:event-name>
+      <lle:event-desc>..\..\img\photo.png</lle:event-desc>
+      <lle:lat>1.350619</lle:lat>
+      <lle:long>103.871021</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 10:23AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>4</lle:eventid>
+      <lle:event-name>Video</lle:event-name>
+      <lle:event-desc>videos\film.mp4</lle:event-desc>
+      <lle:lat>1.351011</lle:lat>
+      <lle:long>103.871869</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 10:48AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>5</lle:eventid>
+      <lle:event-name>Tracklog</lle:event-name>
+      <lle:event-desc>..\..\tracklog\track.gpx</lle:event-desc>
+      <lle:lat>1.353703</lle:lat>
+      <lle:long>103.872684</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 11:02AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>6</lle:eventid>
+      <lle:event-name>Facebook Status</lle:event-name>
+      <lle:event-desc>Checking in here!</lle:event-desc>
+      <lle:lat>1.353703</lle:lat>
+      <lle:long>103.871884</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 11:04AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>7</lle:eventid>
+      <lle:event-name>Habit Tracker</lle:event-name>
+      <lle:event-desc>Ate medication.</lle:event-desc>
+      <lle:lat>1.353671</lle:lat>
+      <lle:long>103.870956</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 11:45AM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>8</lle:eventid>
+      <lle:event-name>Mood Tracker</lle:event-name>
+      <lle:event-desc>Feeling good!</lle:event-desc>
+      <lle:lat>1.353269</lle:lat>
+      <lle:long>103.871455</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 12:04PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>9</lle:eventid>
+      <lle:event-name>Reminder</lle:event-name>
+      <lle:event-desc>Call doctor next week</lle:event-desc>
+      <lle:lat>1.353043</lle:lat>
+      <lle:long>103.870849</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 12:28PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>10</lle:eventid>
+      <lle:event-name>Reminder</lle:event-name>
+      <lle:event-desc>Meet with Jack at Serangoon Central on Sunday.</lle:event-desc>
+      <lle:lat>1.353220</lle:lat>
+      <lle:long>103.871101</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 12:31PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>11</lle:eventid>
+      <lle:event-name>Reminder</lle:event-name>
+      <lle:event-desc>Shopping list: Apples, dish soap, noodles</lle:event-desc>
+      <lle:lat>1.353226</lle:lat>
+      <lle:long>103.870682</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 12:48PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>12</lle:eventid>
+      <lle:event-name>Tweet</lle:event-name>
+      <lle:event-desc>Lunch.</lle:event-desc>
+      <lle:lat>1.353349</lle:lat>
+      <lle:long>103.870892</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 1:13PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>13</lle:eventid>
+      <lle:event-name>Photo</lle:event-name>
+      <lle:event-desc>..\..\img\photo(1).jpg</lle:event-desc>
+      <lle:lat>1.353236</lle:lat>
+      <lle:long>103.870817</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 1:21PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>14</lle:eventid>
+      <lle:event-name>Mood Tracker</lle:event-name>
+      <lle:event-desc>Feeling nostalgic.</lle:event-desc>
+      <lle:lat>1.353998</lle:lat>
+      <lle:long>103.870768</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 1:53PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>15</lle:eventid>
+      <lle:event-name>Tracklog</lle:event-name>
+      <lle:event-desc>..\..\tracklog\track(1).gpx</lle:event-desc>
+      <lle:lat>1.3561753</lle:lat>
+      <lle:long>103.872303</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 2:12PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>16</lle:eventid>
+      <lle:event-name>Video</lle:event-name>
+      <lle:event-desc>videos\film(1).mp4</lle:event-desc>
+      <lle:lat>1.356482</lle:lat>
+      <lle:long>103.872331</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 2:21PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>17</lle:eventid>
+      <lle:event-name>Photo</lle:event-name>
+      <lle:event-desc>..\..\img\photo(2).png</lle:event-desc>
+      <lle:lat>1.356813</lle:lat>
+      <lle:long>103.872346</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 2:34PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>18</lle:eventid>
+      <lle:event-name>Facebook Status</lle:event-name>
+      <lle:event-desc>Bright skies today.</lle:event-desc>
+      <lle:lat>1.356674</lle:lat>
+      <lle:long>103.872013</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 2:35PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>19</lle:eventid>
+      <lle:event-name>Habit Tracker</lle:event-name>
+      <lle:event-desc>Stretching 15 minutes.</lle:event-desc>
+      <lle:lat>1.356073</lle:lat>
+      <lle:long>103.871686</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 2:55PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>20</lle:eventid>
+      <lle:event-name>Tweet</lle:event-name>
+      <lle:event-desc>Test test</lle:event-desc>
+      <lle:lat>1.355864</lle:lat>
+      <lle:long>103.871966</lle:long>
+      <lle:datetimestamp>Thursday, 01 Jul 2021 3:05PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>21</lle:eventid>
+      <lle:event-name>Facebook Status</lle:event-name>
+      <lle:event-desc>Test Evidence</lle:event-desc>
+      <lle:lat>1.3484901818952437</lle:lat>
+      <lle:long>103.87036800384522</lle:long>
+      <lle:datetimestamp>Saturday, 10 July 2021 2:44 PM</lle:datetimestamp>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventid>22</lle:eventid>
+      <lle:event-name>Photo</lle:event-name>
+      <lle:event-desc>..\..\img\pub.jpg</lle:event-desc>
+      <lle:lat>1.347932436866131</lle:lat>
+      <lle:long>103.86835098266602</lle:long>
+		<lle:datetimestamp>Saturday, 10 July 2021 2:53 PM</lle:datetimestamp>
+    
+</lle:Event>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
